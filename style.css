@@ -79,4 +79,7 @@ body {
       .container {
         width: 300px;
       }
+      .list-inline li{
+        display: block;
+      }
     }
