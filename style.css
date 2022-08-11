@@ -38,6 +38,9 @@ body {
     background-color: white;
     color: #2A0944;
   }
+  ul.list-inline {
+    padding-left: 0;
+  }
   a {
     background-color: #2A0944;
     text-decoration: none;
